@@ -14,4 +14,6 @@ Finally pull this repository:
 
 `git clone https://github.com/makerspaceminden/Cura-Settings.git`
 
+And checkout the branch of the version you are using i.e. if you have Cura 5.3 do:
 
+`git checkout 5.3`
